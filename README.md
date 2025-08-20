@@ -55,4 +55,5 @@ Looking for opportunities to apply what I've learned and grow as a developer.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-baruj-haro-salazar-7b2014323/)
 [![Twitter/X](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/FernandoHaroSal)
+[![Portafolio](https://img.shields.io/badge/Portafolio-121212?style=for-the-badge&logo=githubpages&logoColor=white)](https://barujharo.github.io/Portafolio-FernandoHaro/)
 
