@@ -5,7 +5,7 @@
 
 ### 👨‍💻 About Me
 
-I'm an Informatics Engineering student about to graduate from **CUCEI - Universidad de Guadalajara**.  
+I'm a Computer Science student about to graduate from **CUCEI - Universidad de Guadalajara**.  
 I'm passionate about web development and building useful tools through technology.  
 Constantly learning and improving my skills in frontend and backend development.  
 Looking for opportunities to apply what I've learned and grow as a developer.
@@ -47,6 +47,8 @@ Looking for opportunities to apply what I've learned and grow as a developer.
 
 #### 📚 Currently Learning
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 
 ---
